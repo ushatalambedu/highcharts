@@ -19,7 +19,11 @@ Allows the use of steps instead of a straight line.
 
 ![step_demo.png](step_demo.png)
 
+<<<<<<< HEAD
 [Try it here](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
+=======
+[Try it here](https://jsfiddlefiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
+>>>>>>> Docs: changed to https for jsfiddle links
 
 Code to enable step:
 

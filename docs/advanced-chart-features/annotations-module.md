@@ -7,7 +7,11 @@ Include the following file ‘modules/annotations.js’ after highcharts.js or h
 
 <iframe style="width: 100%; height: 432px; border: none;" src=https://www.highcharts.com/samples/embed/highcharts/demo/annotations allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 The concept
 -----------
@@ -59,7 +63,11 @@ Both annotation configurations are represented on this chart (see below). Try to
 
 ![P7kgHMWcW-vEf9pq7zlMWRUkSWJ1wpU34eiNhXQbrxUtphxVt7XqaiHhOZ28qeWzjX9rkNp_8drmwwei1r_vEdZebo4yKch_QX6tvaopLQUueknr8ClOBPqFxol9czL1Ujhp_mUn](https://lh6.googleusercontent.com/P7kgHMWcW-vEf9pq7zlMWRUkSWJ1wpU34eiNhXQbrxUtphxVt7XqaiHhOZ28qeWzjX9rkNp_8drmwwei1r_vEdZebo4yKch_QX6tvaopLQUueknr8ClOBPqFxol9czL1Ujhp_mUn)
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 The labels option
 -----------------

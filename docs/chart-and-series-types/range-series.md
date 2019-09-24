@@ -24,4 +24,8 @@ Options related to Range series
 Range series examples
 ---------------------
 
+<<<<<<< HEAD
 *   [View horizontal column range example with data labels](https://jsfiddle.net/highcharts/XjzFH/)
+=======
+*   [View horizontal column range example with data labels](https://jsfiddlefiddle.net/highcharts/XjzFH/)
+>>>>>>> Docs: changed to https for jsfiddle links

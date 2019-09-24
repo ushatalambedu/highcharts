@@ -32,5 +32,10 @@ Options related to polar charts
 Polar chart examples
 --------------------
 
+<<<<<<< HEAD
 *   [A polar chart with different series types](https://jsfiddle.net/highcharts/z9nyR/)
 *   [A spider web](https://jsfiddle.net/highcharts/xEAxK/)
+=======
+*   [A polar chart with different series types](https://jsfiddlefiddle.net/highcharts/z9nyR/)
+*   [A spider web](https://jsfiddlefiddle.net/highcharts/xEAxK/)
+>>>>>>> Docs: changed to https for jsfiddle links

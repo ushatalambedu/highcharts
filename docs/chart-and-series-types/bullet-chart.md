@@ -7,7 +7,11 @@ _For more detailed samples and documentation check the [API.](https://api.highch
 
 <iframe style="width: 100%; height: 349px; border: none;" src=https://www.highcharts.com/samples/embed/highcharts/demo/bullet-graph allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/bullet-graph/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/bullet-graph/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 How to create a bullet chart
 ----------------------------

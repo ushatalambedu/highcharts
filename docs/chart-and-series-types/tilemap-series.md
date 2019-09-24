@@ -12,7 +12,11 @@ Honeycomb maps use offset hexagonal tiles in a honeycomb pattern. This is the de
 
 <iframe style="width: 100%; height: 800px; border: none;" src=https://www.highcharts.com/samples/embed/maps/plotoptions/honeycomb-brazil allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/plotoptions/honeycomb-brazil/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/plotoptions/honeycomb-brazil/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 Circlemaps
 ----------
@@ -21,7 +25,11 @@ Circlemaps use offset circular tiles.
 
 <iframe style="width: 100%; height: 760px; border: none;" src=https://www.highcharts.com/samples/embed/maps/demo/circlemap-africa allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/demo/circlemap-africa/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/demo/circlemap-africa/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 Diamondmaps
 -----------
@@ -30,7 +38,11 @@ Diamondmaps use offset `rhombus` tiles in a diamond weave pattern.
 
 <iframe style="width: 100%; height: 510px; border: none;" src=https://www.highcharts.com/samples/embed/maps/demo/diamondmap allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/demo/diamondmap/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/demo/diamondmap/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 Squaremaps
 ----------
@@ -51,7 +63,11 @@ The data structure is the same for all tilemap types. `x` and `y` properties set
 
 <iframe style="width: 100%; height: 670px; border: none;" src=https://www.highcharts.com/samples/embed/maps/series/tilemap-gridoffset allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/samples/maps/series/tilemap-gridoffset) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/samples/maps/series/tilemap-gridoffset) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 Tips
 ----
@@ -60,10 +76,18 @@ Tips
 
 <iframe style="width: 100%; height: 590px; border: none;" src=https://www.highcharts.com/samples/embed/maps/demo/honeycomb-usa allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/honeycomb-usa/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/honeycomb-usa/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
 
 2. The spacing between points in tilemaps can be controlled with the [series.pointPadding](https://api.highcharts.com/highmaps/plotOptions.tilemap.pointPadding) option. Point padding can also be set per [point](https://api.highcharts.com/highmaps/series.tilemap.data.pointPadding).
 
 <iframe style="width: 100%; height: 700px; border: none;" src=https://www.highcharts.com/samples/embed/maps/plotoptions/tilemap-pointpadding allow="fullscreen"></iframe>
 
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/plotoptions/tilemap-pointpadding/) to check the code.
+=======
+Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/maps/plotoptions/tilemap-pointpadding/) to check the code.
+>>>>>>> Docs: changed to https for jsfiddle links
