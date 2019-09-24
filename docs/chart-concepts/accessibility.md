@@ -60,7 +60,11 @@ Greater contrast or patterns
 
 The default palette of Highcharts is designed with accessibility in mind, so that any two neighbor colors are tested for different types of color blindness. In addition to that, there are a few ways to increase contrast, both for the visually impaired, but also for the charts to be more readable on greyscale prints.
 
+<<<<<<< HEAD
 *   Apply [dash styles](https://api.highcharts.com/highcharts/plotOptions.line.dashStyle) to line series. This will make lines distinguishable even on poor black/white prints. See the [live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/series-dashstyle/). 
+=======
+*   Apply [dash styles](https://api.highcharts.com/highcharts/plotOptions.line.dashStyle) to line series. This will make lines distinguishable even on poor black/white prints. See the [live demo](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/series-dashstyle/). 
+>>>>>>> Docs: changed to https in api urls
 *   Apply a pattern fill to areas, columns or plot bands. This can be accomplished through the featured [pattern fill plugin](plugin-registry/single/9/Pattern-Fill).
 
 Keep in mind that pattern fills and dash styles could make your charts confusing and less accessible to some users, especially for certain chart types.
