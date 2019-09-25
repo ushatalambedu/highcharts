@@ -16,7 +16,11 @@
 ![On9Vbx4ERi5IGQvQApNjU0uWOlMJ2Ox818G3ukX8qhzF4F21fmhNMWY0_VqxilRKfrWobqUhSZVFdUpJTzAyoLek50qbURSgfYeFHw4jm8ey0QLzxCqFmnO5tTyvpJ2EyLLTW6ej](https://lh3.googleusercontent.com/On9Vbx4ERi5IGQvQApNjU0uWOlMJ2Ox818G3ukX8qhzF4F21fmhNMWY0_VqxilRKfrWobqUhSZVFdUpJTzAyoLek50qbURSgfYeFHw4jm8ey0QLzxCqFmnO5tTyvpJ2EyLLTW6ej)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 5. View live [demo](https://jsfiddle.net/mushigh/ng6zyvuk/).
 =======
 5. View live [demo](https://jsfiddlefiddle.net/mushigh/ng6zyvuk/).
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+5. View live [demo](https://jsfiddle.net/mushigh/ng6zyvuk/).
+>>>>>>> Docs: correctly changed to https for jsfiddle urls

@@ -53,9 +53,13 @@ Normally Highcharts sends data to the export server for saving a graph as an im
 |async|Can be of true or false. Default is false. When setting async to true a download link is returned to the client, instead of an image. This download link can be reused for 30 seconds. After that, the file will be deleted from the server.|
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 See here for an example on how to perform an Ajax Post and return an image. https://jsfiddle.net/6h8o16g0/
 =======
 See here for an example on how to perform an Ajax Post and return an image. https://jsfiddlefiddle.net/6h8o16g0/
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+See here for an example on how to perform an Ajax Post and return an image. https://jsfiddle.net/6h8o16g0/
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 

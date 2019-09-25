@@ -10,10 +10,14 @@ _For more detailed samples and documentation check the [API.](https://api.highch
 <iframe style="width: 100%; height: 432px; border: none;" src=https://www.highcharts.com/samples/embed/highcharts/demo/pareto allow="fullscreen"></iframe>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/pareto/) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/pareto/) to check the code.
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/pareto/) to check the code.
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 How to create Pareto Chart
 --------------------------

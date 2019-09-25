@@ -25,6 +25,7 @@ Gauge examples
 --------------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Spedometer with dual axes](https://jsfiddle.net/highcharts/EjRLw/)
 *   [The Highcharts Clock](https://jsfiddle.net/highcharts/3CUgG/)
 *   [VU meter](https://jsfiddle.net/highcharts/wCJjE/)
@@ -33,3 +34,8 @@ Gauge examples
 *   [The Highcharts Clock](https://jsfiddlefiddle.net/highcharts/3CUgG/)
 *   [VU meter](https://jsfiddlefiddle.net/highcharts/wCJjE/)
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+*   [Spedometer with dual axes](https://jsfiddle.net/highcharts/EjRLw/)
+*   [The Highcharts Clock](https://jsfiddle.net/highcharts/3CUgG/)
+*   [VU meter](https://jsfiddle.net/highcharts/wCJjE/)
+>>>>>>> Docs: correctly changed to https for jsfiddle urls

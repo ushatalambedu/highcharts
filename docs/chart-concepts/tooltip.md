@@ -10,6 +10,7 @@ Appearance
 
  The following code example shows the most common appearance options for tooltip:
 
+<<<<<<< HEAD
 ```js
 tooltip: {
     backgroundColor: '#FCFFC5',
@@ -24,6 +25,18 @@ The background color can also be set to a gradient, see [an example](https://jsf
 =======
 The background color can also be set to a gradient, see [an example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/tooltip/backgroundcolor-gradient/). Text properties can be set using the style option.
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+    
+    tooltip: {
+        backgroundColor: '#FCFFC5',
+        borderColor: 'black',
+        borderRadius: 10,
+        borderWidth: 3
+    }
+    
+
+The background color can also be set to a gradient, see [an example](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/tooltip/backgroundcolor-gradient/). Text properties can be set using the style option.
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Tooltip formatting
 ------------------

@@ -75,10 +75,14 @@ Events
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-events/) of how events can be used.
 =======
 [Example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-events/) of how events can be used.
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+[Example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-events/) of how events can be used.
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Dynamically update
 ------------------
@@ -88,10 +92,14 @@ After render time a chart can be updated with new plot bands or lines, or if you
 When removing a plot band or line it is critical that the object which should be removed has been given an id. Without it the object can not be recognized and the function can not be executed.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Some simple examples of how a plot band can be [added](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/) to the chart and how it can be [removed](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/).
 =======
 Some simple examples of how a plot band can be [added](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/) to the chart and how it can be [removed](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/).
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+Some simple examples of how a plot band can be [added](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/) to the chart and how it can be [removed](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/).
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Plot bands and lines in polar charts and gauges
 -----------------------------------------------
@@ -105,6 +113,7 @@ Plot bands and plot lines examples
 
 *   [Spline with plot bands](demo/spline-plot-bands)
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Spline with dashed and dotted plot lines](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotlines-dashstyle/)
 *   [Removing a plot band](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/)
 *   [Toggle plot band](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/)
@@ -113,5 +122,10 @@ Plot bands and plot lines examples
 *   [Removing a plot band](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/)
 *   [Toggle plot band](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/)
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+*   [Spline with dashed and dotted plot lines](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotlines-dashstyle/)
+*   [Removing a plot band](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/xaxis/plotbands-id/)
+*   [Toggle plot band](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/axis-addplotband/)
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 For more information and examples look in the api for [plotBands](https://api.highcharts.com/highcharts/xAxis.plotBands), [plotLines](https://api.highcharts.com/highcharts/xAxis.plotLines), [addPlotBand](https://api.highcharts.com/highcharts/Axis.addPlotBand) and [addPlotLine](https://api.highcharts.com/highcharts/Axis.addPlotLine).

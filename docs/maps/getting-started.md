@@ -21,6 +21,7 @@ Load the map
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Highmaps loads its maps from [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), an open standard for description of geographic features. Most GIS software supports this format as export from for instance Shapefile or KML export. Read more in the [API reference](https://api.highcharts.com/highmaps#Highcharts.geojson) and [see the live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/demo/geojson-multiple-types/).
 =======
 Highmaps loads its maps from [GeoJSON](http://en.wikipedia.org/wiki/GeoJSON), an open standard for description of geographic features. Most GIS software supports this format as export from for instance Shapefile or KML export. Read more in the [API reference](https://api.highcharts.com/highmaps#Highcharts.geojson) and [see the live demo](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/demo/geojson-multiple-types/).
@@ -28,6 +29,9 @@ Highmaps loads its maps from [GeoJSON](http://en.wikipedia.org/wiki/GeoJSON), a
 =======
 Highmaps loads its maps from [GeoJSON](http://en.wikipedia.org/wiki/GeoJSON), an open standard for description of geographic features. Most GIS software supports this format as export from for instance Shapefile or KML export. Read more in the [API reference](https://api.highcharts.com/highmaps#Highcharts.geojson) and [see the live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/demo/geojson-multiple-types/).
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+Highmaps loads its maps from [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), an open standard for description of geographic features. Most GIS software supports this format as export from for instance Shapefile or KML export. Read more in the [API reference](https://api.highcharts.com/highmaps#Highcharts.geojson) and [see the live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/demo/geojson-multiple-types/).
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 There are three basic sources for your map:
 

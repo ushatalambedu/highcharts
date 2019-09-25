@@ -147,10 +147,14 @@ Many layout elements including series types in Highcharts have shadow options. G
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 See it [demonstrated at jsFiddle](https://jsfiddle.net/highcharts/jYLXN/).
 =======
 See it [demonstrated at jsFiddle](https://jsfiddlefiddle.net/highcharts/jYLXN/).
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+See it [demonstrated at jsFiddle](https://jsfiddle.net/highcharts/jYLXN/).
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Styling axes
 ------------

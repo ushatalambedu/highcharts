@@ -67,10 +67,14 @@ It's best explained by a code sample:
     
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Try it live](https://jsfiddle.net/highcharts/DuuBr/)
 =======
 [Try it live](https://jsfiddlefiddle.net/highcharts/DuuBr/)
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+[Try it live](https://jsfiddle.net/highcharts/DuuBr/)
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Example extension
 -----------------
@@ -154,7 +158,11 @@ Now the trackball will be displayed, but we also need to hide it when the toolti
     });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddle.net/highcharts/nhVbs/).
 =======
 That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddlefiddle.net/highcharts/nhVbs/).
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddle.net/highcharts/nhVbs/).
+>>>>>>> Docs: correctly changed to https for jsfiddle urls

@@ -32,14 +32,19 @@ Numbers
 -------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
 =======
 Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 
 Live demo
 ---------
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 See a [live Arabic chart](https://jsfiddle.net/highcharts/buYCZ/) demo.  
 See a [live Arabic chart](https://jsfiddle.net/highcharts/ebqj2e19/) demo.  
@@ -49,3 +54,8 @@ See a [live Arabic chart](https://jsfiddlefiddle.net/highcharts/buYCZ/) demo.
 See a [live Arabic chart](https://jsfiddlefiddle.net/highcharts/ebqj2e19/) demo.  
 See a [live Chinese chart](https://jsfiddlefiddle.net/highcharts/u923mpct/) demo.
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+See a [live Arabic chart](https://jsfiddle.net/highcharts/buYCZ/) demo.  
+See a [live Arabic chart](https://jsfiddle.net/highcharts/ebqj2e19/) demo.  
+See a [live Chinese chart](https://jsfiddle.net/highcharts/u923mpct/) demo.
+>>>>>>> Docs: correctly changed to https for jsfiddle urls

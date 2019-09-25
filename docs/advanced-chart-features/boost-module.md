@@ -104,6 +104,7 @@ Samples
 *   [Stacked area chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/area-stacked) – 50,000 points
 *   [Area range chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/arearange) – 500,000 points
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Bubble chart](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/bubble/) - 50,000 points
 *   [Column chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/column) – 500,000 points
 *   [Heatmap](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/heatmap/)
@@ -115,12 +116,19 @@ Samples
 *   [Treemap](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/treemap/)
 =======
 *   [Bubble chart](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/bubble/) - 50,000 points
+=======
+*   [Bubble chart](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/bubble/) - 50,000 points
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
 *   [Column chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/column) – 500,000 points
-*   [Heatmap](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/heatmap/)
+*   [Heatmap](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/heatmap/)
 *   [Line chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/line/) – 1,000,000 points
-*   [Series-heavy line chart](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy/) - 600 series, 600,000 points
-*   [Series-heavy stock chart](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy-stock/) \- 600 series, 72,000 points
-*   [Dynamic series-heavy stock chart](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy-dynamic/) - 600 series, 12,000 initial points; adds 1 point to all series every second
+*   [Series-heavy line chart](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy/) - 600 series, 600,000 points
+*   [Series-heavy stock chart](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy-stock/) \- 600 series, 72,000 points
+*   [Dynamic series-heavy stock chart](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/line-series-heavy-dynamic/) - 600 series, 12,000 initial points; adds 1 point to all series every second
 *   [Scatter chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/boost/scatter) – 1,000,000 points
+<<<<<<< HEAD
 *   [Treemap](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/treemap/)
 >>>>>>> Docs: changed to https for jsfiddle links
+=======
+*   [Treemap](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/boost/treemap/)
+>>>>>>> Docs: correctly changed to https for jsfiddle urls
