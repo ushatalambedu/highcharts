@@ -171,7 +171,7 @@ Several graphic elements are associated with axes.
 Tooltip
 -------
 
-See the [Tooltip concept page](docs/chart-concepts/tooltip) for styling tooltips. 
+See the [Tooltip concept page](/docs/chart-concepts/tooltip) for styling tooltips. 
 
 Animation
 ---------
