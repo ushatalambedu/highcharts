@@ -7,6 +7,7 @@ A word cloud is a visualization of a set of words, where the size and placement 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/wordcloud/) to check the code
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/wordcloud/) to check the code
@@ -14,6 +15,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/wordcloud/) to check the code
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/wordcloud/) to check the code
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Requirements
 ------------

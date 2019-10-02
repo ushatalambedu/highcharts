@@ -33,6 +33,7 @@ Floating
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The option allows to skip adding extra space for range selector. [See a live demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/rangeselector/floating/).
 =======
 The option allows to skip adding extra space for range selector. [See a live demo](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/rangeselector/floating/).
@@ -40,6 +41,9 @@ The option allows to skip adding extra space for range selector. [See a live dem
 =======
 The option allows to skip adding extra space for range selector. [See a live demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/rangeselector/floating/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+The option allows to skip adding extra space for range selector. [See a live demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/rangeselector/floating/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     rangeSelector: {

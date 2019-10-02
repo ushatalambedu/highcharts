@@ -27,13 +27,17 @@ Live demos of accessible charts:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 *   [Accessible line chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/accessibility/accessible-line/)
 *   [Accessible pie chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/accessibility/accessible-pie/)
 *   [Complex accessible chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/accessibility/advanced-accessible/)
 *   [Accessible map](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/maps/accessibility/accessible-map/)
 *   [Accessible stock chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/accessibility/accessible-stock/)
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 *   [Accessible line chart](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/accessibility/accessible-line/)
@@ -44,6 +48,8 @@ Live demos of accessible charts:
 >>>>>>> Docs: changed to https for jsfiddle links
 =======
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Standards compliance
 --------------------
@@ -69,6 +75,7 @@ In some cases it could be useful to load the chart data from a table, rather tha
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
 =======
 View a live sample of [data fetched from a table](https://jsfiddlefiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
@@ -76,12 +83,16 @@ View a live sample of [data fetched from a table](https://jsfiddlefiddle.net/gh/
 =======
 View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Greater contrast or patterns
 ----------------------------
 
 The default palette of Highcharts is designed with accessibility in mind, so that any two neighbor colors are tested for different types of color blindness. In addition to that, there are a few ways to increase contrast, both for the visually impaired, but also for the charts to be more readable on greyscale prints.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -95,6 +106,9 @@ The default palette of Highcharts is designed with accessibility in mind, so tha
 =======
 *   Apply [dash styles](https://api.highcharts.com/highcharts/plotOptions.line.dashStyle) to line series. This will make lines distinguishable even on poor black/white prints. See the [live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/series-dashstyle/). 
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   Apply [dash styles](https://api.highcharts.com/highcharts/plotOptions.line.dashStyle) to line series. This will make lines distinguishable even on poor black/white prints. See the [live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/series-dashstyle/). 
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 *   Apply a pattern fill to areas, columns or plot bands. This can be accomplished through the featured [pattern fill plugin](plugin-registry/single/9/Pattern-Fill).
 
 Keep in mind that pattern fills and dash styles could make your charts confusing and less accessible to some users, especially for certain chart types.

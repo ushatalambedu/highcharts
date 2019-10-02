@@ -25,6 +25,7 @@ The configuration above generates a resizer between the first and the second `yA
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/candlestick-and-volume/) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/candlestick-and-volume/) to check the code.
@@ -32,6 +33,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/candlestick-and-volume/) to check the code.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/candlestick-and-volume/) to check the code.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Requirements
 ------------

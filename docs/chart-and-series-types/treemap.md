@@ -41,6 +41,7 @@ Simple and fast algorithm which is great for structuring the points. The drawbac
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-sliceanddice/) of Slice And Dice.
 =======
 See an [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-sliceanddice/) of Slice And Dice.
@@ -48,11 +49,15 @@ See an [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-softwa
 =======
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-sliceanddice/) of Slice And Dice.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-sliceanddice/) of Slice And Dice.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ##### Stripes
 
 Also a simple algorithm which is quite similar to Slice And Dice. Instead of alternating the direction between each node, it draws all nodes in same direction, creating a set of columns.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-stripes/) of Stripes.
@@ -62,11 +67,15 @@ See an [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-softwa
 =======
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-stripes/) of Stripes.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-stripes/) of Stripes.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ##### Squarified
 
 An algorithm which aims to give each point a low aspect ratio. It adds the points one by one to a strip until it finds the best aspect ratio available. Then it alternates the direction and does the same with a new strip. The process continues in the same pattern until all points are placed in the chart.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-squarified/) of Squarified.
@@ -76,11 +85,15 @@ See an [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-softwa
 =======
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-squarified/) of Squarified.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-squarified/) of Squarified.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ##### Strip
 
 Not to be mistaken as the Stripes algorithm, it has some clear differences in behavior. The Strip algorithm has the same objective as the Squarified algorithm, to get low aspect ratios. The process is quite similar, but instead of alternating the direction, the strips are drawn side by side as columns.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-strip/) of Strip.
@@ -90,6 +103,9 @@ See an [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-softwa
 =======
 See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-strip/) of Strip.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See an [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/treemap-layoutalgorithm-strip/) of Strip.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ##### Add your own algorithm
 
@@ -181,6 +197,7 @@ levelIsConstant is an option used together with the levels and allowDrillToNode 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 An [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset) where levelIsConstant is set to false.
 =======
 An [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset) where levelIsConstant is set to false.
@@ -188,6 +205,9 @@ An [example](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/h
 =======
 An [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset) where levelIsConstant is set to false.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+An [example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset) where levelIsConstant is set to false.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ### Use with ColorAxis
 
@@ -231,6 +251,7 @@ And each point needs its own colorValue.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Full example is found here](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
 =======
 [Full example is found here](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
@@ -238,6 +259,9 @@ And each point needs its own colorValue.
 =======
 [Full example is found here](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[Full example is found here](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ### Options
 
@@ -245,6 +269,7 @@ For an overview over the options for the treemap, see the [API](https://api.hig
 
 ### Mode demos
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 *   [Treemap with colorAxis](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
@@ -260,3 +285,8 @@ For an overview over the options for the treemap, see the [API](https://api.hig
 *   [Treemap displaying the global mortality rate and causes](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset)
 *   [Treemap using level specific options](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-with-levels)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [Treemap with colorAxis](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-coloraxis)
+*   [Treemap displaying the global mortality rate and causes](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-large-dataset)
+*   [Treemap using level specific options](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/treemap-with-levels)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

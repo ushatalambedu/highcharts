@@ -33,6 +33,7 @@ Numbers
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
 =======
 Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
@@ -40,10 +41,14 @@ Numbers can be internationalized by extending the numberFormat function. See the
 =======
 Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Numbers can be internationalized by extending the numberFormat function. See the example of [Arabic digits in Highcharts](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/members/highcharts-numberformat/). 
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Live demo
 ---------
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 See a [live Arabic chart](https://jsfiddle.net/highcharts/buYCZ/) demo.  
@@ -59,3 +64,8 @@ See a [live Arabic chart](https://jsfiddle.net/highcharts/buYCZ/) demo.
 See a [live Arabic chart](https://jsfiddle.net/highcharts/ebqj2e19/) demo.  
 See a [live Chinese chart](https://jsfiddle.net/highcharts/u923mpct/) demo.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See a [live Arabic chart](https://jsfiddle.net/highcharts/buYCZ/) demo.  
+See a [live Arabic chart](https://jsfiddle.net/highcharts/ebqj2e19/) demo.  
+See a [live Chinese chart](https://jsfiddle.net/highcharts/u923mpct/) demo.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

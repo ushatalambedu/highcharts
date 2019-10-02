@@ -66,6 +66,7 @@ In some cases it could be useful to load the chart data from a table, rather tha
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
 =======
 View a live sample of [data fetched from a table](https://jsfiddlefiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
@@ -73,6 +74,9 @@ View a live sample of [data fetched from a table](https://jsfiddlefiddle.net/gh/
 =======
 View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+View a live sample of [data fetched from a table](https://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/column-parsed/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Loading from Google Spreadsheets
 --------------------------------

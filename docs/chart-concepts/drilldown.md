@@ -55,6 +55,7 @@ For a basic setup, the drilldown series are defined in a separate array under th
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 See it [live on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/basic/).
 =======
 See it [live on jsFiddle](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/basic/).
@@ -62,11 +63,15 @@ See it [live on jsFiddle](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highsli
 =======
 See it [live on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/basic/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See it [live on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/basic/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ### Async setup
 
 In many cases you may want to load the drilldown series dynamically. In this case we set the `point.drilldown` option to true, and use the chart's drilldown event to load the drilldown series configuration based on the clicked point. When the series data arrives, we add it by calling the [Chart.addSeriesAsDrilldown](https://api.highcharts.com/highcharts/Chart.addSeriesAsDrilldown) method.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 See the [async drilldown](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/async/) demo.
@@ -76,3 +81,6 @@ See the [async drilldown](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highsli
 =======
 See the [async drilldown](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/async/) demo.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See the [async drilldown](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/drilldown/async/) demo.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

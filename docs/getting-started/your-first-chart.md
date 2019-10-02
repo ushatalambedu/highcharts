@@ -73,6 +73,7 @@ Below is a list of online examples of the examples shown in this article:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Simple bar chart](https://jsfiddle.net/highcharts/kh5jY/)
 *   [Highstock Example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/stock/demo/basic-line/)
 =======
@@ -83,3 +84,7 @@ Below is a list of online examples of the examples shown in this article:
 *   [Simple bar chart](https://jsfiddle.net/highcharts/kh5jY/)
 *   [Highstock Example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/stock/demo/basic-line/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [Simple bar chart](https://jsfiddle.net/highcharts/kh5jY/)
+*   [Highstock Example](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/stock/demo/basic-line/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

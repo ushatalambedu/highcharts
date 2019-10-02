@@ -68,6 +68,7 @@ It's best explained by a code sample:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Try it live](https://jsfiddle.net/highcharts/DuuBr/)
 =======
 [Try it live](https://jsfiddlefiddle.net/highcharts/DuuBr/)
@@ -75,6 +76,9 @@ It's best explained by a code sample:
 =======
 [Try it live](https://jsfiddle.net/highcharts/DuuBr/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[Try it live](https://jsfiddle.net/highcharts/DuuBr/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Example extension
 -----------------
@@ -159,6 +163,7 @@ Now the trackball will be displayed, but we also need to hide it when the toolti
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddle.net/highcharts/nhVbs/).
 =======
 That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddlefiddle.net/highcharts/nhVbs/).
@@ -166,3 +171,6 @@ That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddlefiddl
 =======
 That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddle.net/highcharts/nhVbs/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+That was all, the whole [sample can be viewed in jsFiddle](https://jsfiddle.net/highcharts/nhVbs/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

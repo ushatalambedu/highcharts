@@ -69,6 +69,7 @@ Map properties
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The following table outlines the properties available in the Highmaps Map Collection maps, and their meaning. The properties are accessible from the **point.properties** object ([example](https://jsfiddle.net/oysteinmoseng/52rgg5zq/)).
 =======
 The following table outlines the properties available in the Highmaps Map Collection maps, and their meaning. The properties are accessible from the **point.properties** object ([example](https://jsfiddlefiddle.net/oysteinmoseng/52rgg5zq/)).
@@ -76,6 +77,9 @@ The following table outlines the properties available in the Highmaps Map Collec
 =======
 The following table outlines the properties available in the Highmaps Map Collection maps, and their meaning. The properties are accessible from the **point.properties** object ([example](https://jsfiddle.net/oysteinmoseng/52rgg5zq/)).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+The following table outlines the properties available in the Highmaps Map Collection maps, and their meaning. The properties are accessible from the **point.properties** object ([example](https://jsfiddle.net/oysteinmoseng/52rgg5zq/)).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 | Property       | Example values                        | Description                                                                                                                                                                                                                                                                                                                                                                           | Availability                                                      |
 | -------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -97,11 +101,19 @@ The following table outlines the properties available in the Highmaps Map Collec
 | type           | State, Emirate, Fylke, Land           | Description of the area type                                                                                                                                                                                                                                                                                                                                                          | Most admin1 areas within country maps                             |
 
 
+<<<<<<< HEAD
 
 
 
 The **hc-key** property reflects the naming convention of the maps, and can be used for dynamic drilldown purposes. This is illustrated in the [Map drilldown demo](https://highcharts.com/maps/demo/map-drilldown). The property follows the following format:
 
+=======
+
+
+
+The **hc-key** property reflects the naming convention of the maps, and can be used for dynamic drilldown purposes. This is illustrated in the [Map drilldown demo](https://highcharts.com/maps/demo/map-drilldown). The property follows the following format:
+
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 ```
 <unique admin0 id>-<unique admin1 id>-<unique admin2 id>-...
 ```
@@ -118,6 +130,7 @@ Using parts of a map
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 If you can't find the exact map that you want in the collection, it is easy to use only selected parts of a larger area. Say you want a comparative map of Canada, USA and Mexico. Since we don't have that exact combination in the collection (as of now), you can use the map called "North America without Central". This map also contains Greenland as well as Caribbean islands. So we apply a data set only for the three countries we want, and set the [allAreas](https://api.highcharts.com/highmaps/plotOptions.map.allAreas) option to false. This option makes sure all null points (the countries that don't have data), are hidden. See [demo on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/plotoptions/series-allareas-false/).
 =======
 If you can't find the exact map that you want in the collection, it is easy to use only selected parts of a larger area. Say you want a comparative map of Canada, USA and Mexico. Since we don't have that exact combination in the collection (as of now), you can use the map called "North America without Central". This map also contains Greenland as well as Caribbean islands. So we apply a data set only for the three countries we want, and set the [allAreas](https://api.highcharts.com/highmaps/plotOptions.map.allAreas) option to false. This option makes sure all null points (the countries that don't have data), are hidden. See [demo on jsFiddle](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/plotoptions/series-allareas-false/).
@@ -128,6 +141,9 @@ If you can't find the exact map that you want in the collection, it is easy to u
 =======
 If you can't find the exact map that you want in the collection, it is easy to use only selected parts of a larger area. Say you want a comparative map of Canada, USA and Mexico. Since we don't have that exact combination in the collection (as of now), you can use the map called "North America without Central". This map also contains Greenland as well as Caribbean islands. So we apply a data set only for the three countries we want, and set the [allAreas](https://api.highcharts.com/highmaps/plotOptions.map.allAreas) option to false. This option makes sure all null points (the countries that don't have data), are hidden. See [demo on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/plotoptions/series-allareas-false/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+If you can't find the exact map that you want in the collection, it is easy to use only selected parts of a larger area. Say you want a comparative map of Canada, USA and Mexico. Since we don't have that exact combination in the collection (as of now), you can use the map called "North America without Central". This map also contains Greenland as well as Caribbean islands. So we apply a data set only for the three countries we want, and set the [allAreas](https://api.highcharts.com/highmaps/plotOptions.map.allAreas) option to false. This option makes sure all null points (the countries that don't have data), are hidden. See [demo on jsFiddle](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/plotoptions/series-allareas-false/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Modify our maps
 ---------------

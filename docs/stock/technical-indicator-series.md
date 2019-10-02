@@ -7,6 +7,9 @@ Technical indicators require the [indicators/indicators.js](https://code.highcha
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 *   [Absolute Price Oscillator](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/apo/)
     
 *   [Acceleration Bands](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/acceleration-bands/)
@@ -88,6 +91,7 @@ Technical indicators require the [indicators/indicators.js](https://code.highcha
 *   [WMA (Weighted Moving Average)](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/wma/)
     
 *   [Zig Zag](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/zigzag/)
+<<<<<<< HEAD
 =======
 *   [Absolute Price Oscillator](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/apo/)
 =======
@@ -178,6 +182,8 @@ Technical indicators require the [indicators/indicators.js](https://code.highcha
 =======
 *   [Zig Zag](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/zigzag/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
     
 
 _For more detailed samples and documentation check the [API.](https://api.highcharts.com/highstock/plotOptions.sma)_
@@ -215,6 +221,7 @@ There are no limitations to the number of technical indicators that can be bound
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/macd-pivot-points) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/macd-pivot-points) to check the code.
@@ -222,6 +229,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/macd-pivot-points) to check the code.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/demo/macd-pivot-points) to check the code.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 yAxis bindigs
 -------------

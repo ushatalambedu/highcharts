@@ -48,11 +48,15 @@ We will now go through the process of importing a Shapefile in QGIS and converti
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 8. When you are satisfied with your map, you need to export it to GeoJSON format in order to use it with Highmaps. To export your map, right click the layer you want to export in the table of contents, and select "Save As". Make sure to select to save in GeoJSON format. The resulting file can be used directly with Highmaps. You will notice that QGIS by default includes a large amount of decimals in the GeoJSON coordinates. These can be stripped using a Regex or similar, for optimization. Try using [this jsFiddle tool](https://jsfiddle.net/highcharts/92oymdb7/ "jsFiddle tool") on the resulting file contents.
 
 ![custom-geojson-maps-10.jpg](custom-geojson-maps-10.jpg)
 
 9. To quickly test your map, paste your GeoJSON into [this boilerplate jsFiddle](https://jsfiddle.net/highcharts/xbzxfx2L "GeoJSON maps boilerplate"). The result should look something like this:
+<<<<<<< HEAD
 =======
 8. When you are satisfied with your map, you need to export it to GeoJSON format in order to use it with Highmaps. To export your map, right click the layer you want to export in the table of contents, and select "Save As". Make sure to select to save in GeoJSON format. The resulting file can be used directly with Highmaps. You will notice that QGIS by default includes a large amount of decimals in the GeoJSON coordinates. These can be stripped using a Regex or similar, for optimization. Try using [this jsFiddle tool](https://jsfiddlefiddle.net/highcharts/92oymdb7/ "jsFiddle tool") on the resulting file contents.
 
@@ -67,6 +71,8 @@ We will now go through the process of importing a Shapefile in QGIS and converti
 
 9. To quickly test your map, paste your GeoJSON into [this boilerplate jsFiddle](https://jsfiddle.net/highcharts/xbzxfx2L "GeoJSON maps boilerplate"). The result should look something like this:
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ![custom-geojson-maps-11.jpg](custom-geojson-maps-11.jpg)
 

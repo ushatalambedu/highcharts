@@ -141,6 +141,7 @@ For live demos check the links below:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Scatter Height vs Weight](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-scatter/)
 *   [AAPL Stock Price](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-aapl/)
 *   [Average Monthly Temperature and Rainfall in Tokyo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-column/)
@@ -154,6 +155,11 @@ For live demos check the links below:
 *   [AAPL Stock Price](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-aapl/)
 *   [Average Monthly Temperature and Rainfall in Tokyo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-column/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [Scatter Height vs Weight](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-scatter/)
+*   [AAPL Stock Price](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-aapl/)
+*   [Average Monthly Temperature and Rainfall in Tokyo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/indicators/custom-regression-column/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 **Remark**
 

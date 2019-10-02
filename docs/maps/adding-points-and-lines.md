@@ -5,6 +5,7 @@ Map points and lines are added to the map by coordinates. The coordinate system 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Points are added as x, y pairs on the same coordinate system as the map. Maplines however are given as paths. In order to ease the process of placing your own points on the map, we have created [a utility script](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/chart/events-click-getcoordinates/) that allows you to click around in the map, then view and copy-paste the coordinates into your own map setup.
 =======
 Points are added as x, y pairs on the same coordinate system as the map. Maplines however are given as paths. In order to ease the process of placing your own points on the map, we have created [a utility script](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/chart/events-click-getcoordinates/) that allows you to click around in the map, then view and copy-paste the coordinates into your own map setup.
@@ -12,3 +13,6 @@ Points are added as x, y pairs on the same coordinate system as the map. Mapline
 =======
 Points are added as x, y pairs on the same coordinate system as the map. Maplines however are given as paths. In order to ease the process of placing your own points on the map, we have created [a utility script](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/chart/events-click-getcoordinates/) that allows you to click around in the map, then view and copy-paste the coordinates into your own map setup.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Points are added as x, y pairs on the same coordinate system as the map. Maplines however are given as paths. In order to ease the process of placing your own points on the map, we have created [a utility script](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/maps/chart/events-click-getcoordinates/) that allows you to click around in the map, then view and copy-paste the coordinates into your own map setup.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

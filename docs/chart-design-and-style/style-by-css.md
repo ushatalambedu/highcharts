@@ -20,6 +20,7 @@ Depending on how you prefer to work, you can use the browser's developer console
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 In addition to these, most elements, especially those where you can add multiple items, like axes, series, points etc, have a _className_ option. Use this to apply specific styling. An example can be seen for [axis styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 =======
 In addition to these, most elements, especially those where you can add multiple items, like axes, series, points etc, have a _className_ option. Use this to apply specific styling. An example can be seen for [axis styling](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
@@ -27,6 +28,9 @@ In addition to these, most elements, especially those where you can add multiple
 =======
 In addition to these, most elements, especially those where you can add multiple items, like axes, series, points etc, have a _className_ option. Use this to apply specific styling. An example can be seen for [axis styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+In addition to these, most elements, especially those where you can add multiple items, like axes, series, points etc, have a _className_ option. Use this to apply specific styling. An example can be seen for [axis styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 The following is an overview of what CSS rules are internally set on the Highcharts SVG elements and how to use them. 
 
@@ -42,6 +46,7 @@ The top group for axis. In addition to this class name, the group will have _.h
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
@@ -49,6 +54,9 @@ The top group for axis. In addition to this class name, the group will have _.h
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-axis-labels
@@ -62,6 +70,7 @@ Text styles for the axis title. Replaces [axis.title.style](https://api.highcha
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
@@ -69,12 +78,16 @@ Text styles for the axis title. Replaces [axis.title.style](https://api.highcha
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-background
 
 A rectangle for the chart background. Use it to set background fills or strokes. Replaces [chart.backgroundColor](https://api.highcharts.com/highcharts/chart.backgroundColor), [chart.borderColor](https://api.highcharts.com/highcharts/chart.borderColor) and [chart.borderWidth](https://api.highcharts.com/highcharts/chart.borderWidth) options. Backgrounds can also be set on the container div, but in that  they will not be part of the exported chart.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-border-background/).
@@ -84,6 +97,9 @@ A rectangle for the chart background. Use it to set background fills or strokes.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-border-background/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-border-background/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-boxplot-series  
@@ -96,6 +112,7 @@ The various graphic items for box plot series. The box, median, stem and whisker
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/boxplot/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/boxplot/).
@@ -103,6 +120,9 @@ The various graphic items for box plot series. The box, median, stem and whisker
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/boxplot/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/boxplot/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-button
@@ -116,6 +136,7 @@ The symbol for the exporting button, can be used to set stroke and fill etc. 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
@@ -123,6 +144,9 @@ The symbol for the exporting button, can be used to set stroke and fill etc. 
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-candlestick-series .highcharts-point-up  
@@ -132,6 +156,7 @@ Rules to differentiate between up or down points in Highstock candlesticks.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/candlestick/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/candlestick/).
@@ -139,12 +164,16 @@ Rules to differentiate between up or down points in Highstock candlesticks.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/candlestick/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/candlestick/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-color-{n}
 
 Colors used for series, or individual points when [colorByPoint](https://api.highcharts.com/highcharts/plotOptions.column.colorByPoint) is set, typically for pie charts etc. Each such color rule sets the fill and stroke to a default color in _highcharts.css_, then these properties may be overridden by more specific rules, for example for a common stroke on pies. The best place to set your own custom colors is by modifying highcharts.css/highcharts.scss, otherwise the strokes and fills must be set more specifically. Replaces [colors](https://api.highcharts.com/highcharts/colors).
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/colors/).
@@ -154,12 +183,16 @@ Colors used for series, or individual points when [colorByPoint](https://api.hi
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/colors/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/colors/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-contextbutton
 
 The context button with a burger menu for the exporting module. Replaces visual options for [exporting.buttons.contextButton](https://api.highcharts.com/highcharts/exporting.buttons.contextButton) and [navigation.buttonOptions.theme](https://api.highcharts.com/highcharts/navigation.buttonOptions.theme).
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
@@ -169,12 +202,16 @@ The context button with a burger menu for the exporting module. Replaces visual 
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-credits
 
 The credits label, normally found in the lower right corner of the chart. Replaces [credits.style](https://api.highcharts.com/highcharts/credits.style) and more.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/credits/). 
@@ -184,12 +221,16 @@ The credits label, normally found in the lower right corner of the chart. Replac
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/credits/). 
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/credits/). 
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-crosshair
 
 Styles for the crosshair extending from the axis to the currently highlighted point. Styling can also be differentiated by _.highcharts-crosshair-category_ or _.highcharts-crosshair-thin_.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshairs/).
@@ -199,12 +240,16 @@ Styles for the crosshair extending from the axis to the currently highlighted po
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshairs/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshairs/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-crosshair-label
 
 The label next to the crosshair in Highstock. 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshair-label/).
@@ -214,12 +259,16 @@ The label next to the crosshair in Highstock. 
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshair-label/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/crosshair-label/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-data-label
 
 The data label. Use _.highcharts-data-label-box_ to style the border or background, and _.highcharts-data-label text_ for text styling. Use the _dataLabels.className_ option to set specific class names for individual items. Replaces background, border, color and style options for [series.dataLabels](https://api.highcharts.com/highcharts/plotOptions.series.dataLabels).
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-datalabels/).
@@ -229,6 +278,9 @@ The data label. Use _.highcharts-data-label-box_ to style the border or backgr
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-datalabels/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-datalabels/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-drilldown-axis-label
@@ -253,6 +305,7 @@ Styles for the dial and pivot of gauge series. Replaces border and background op
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gauge/).  
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gauge/).  
@@ -260,6 +313,9 @@ Styles for the dial and pivot of gauge series. Replaces border and background op
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gauge/).  
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gauge/).  
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-graph
@@ -273,6 +329,7 @@ Styling for grid lines. Replaces [gridLineWidth](https://api.highcharts.com/hig
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
@@ -280,6 +337,9 @@ Styling for grid lines. Replaces [gridLineWidth](https://api.highcharts.com/hig
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-halo
@@ -293,6 +353,7 @@ The box and border for the legend. Replaces [legend.backgroundColor](https://ap
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -300,6 +361,9 @@ The box and border for the legend. Replaces [legend.backgroundColor](https://ap
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-legend-item
@@ -308,6 +372,7 @@ Styles for each individual legend item. Replaces [legend.itemStyle](https://api
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -315,6 +380,9 @@ Styles for each individual legend item. Replaces [legend.itemStyle](https://api
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-legend-item-hidden
@@ -323,6 +391,7 @@ A legend item for a hidden series or point. Replaces [legend.itemHiddenStyle](h
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -330,6 +399,9 @@ A legend item for a hidden series or point. Replaces [legend.itemHiddenStyle](h
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-legend-navigation
@@ -343,6 +415,7 @@ The active arrow of the legend navigation. Replaces [legend.navigation.activeCo
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -350,6 +423,9 @@ The active arrow of the legend navigation. Replaces [legend.navigation.activeCo
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-legend-nav-inactive
@@ -358,6 +434,7 @@ The inactive arrow of the legend navigation. Replaces [legend.navigation.inacti
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -365,6 +442,9 @@ The inactive arrow of the legend navigation. Replaces [legend.navigation.inacti
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-legend-title
@@ -373,6 +453,7 @@ The legend title. Use this CSS rule for text styling. Replaces [legend.title.st
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
@@ -380,6 +461,9 @@ The legend title. Use this CSS rule for text styling. Replaces [legend.title.st
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/legend/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-loading
@@ -388,6 +472,7 @@ The loading overlay. Replaces [loading.style](https://api.highcharts.com/highch
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
@@ -395,6 +480,9 @@ The loading overlay. Replaces [loading.style](https://api.highcharts.com/highch
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-loading-inner
@@ -403,6 +491,7 @@ The inner div of the loading label. Replaces [loading.labelStyle](https://api.h
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
@@ -410,12 +499,16 @@ The inner div of the loading label. Replaces [loading.labelStyle](https://api.h
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/loading/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-minor-grid-line
 
 Replaces [axis.minorGridLineColor](https://api.highcharts.com/highcharts/xAxis.minorGridLineColor) and [axis.minorGridLineWidth](https://api.highcharts.com/highcharts/xAxis.minorGridLineWidth).
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
@@ -425,6 +518,9 @@ Replaces [axis.minorGridLineColor](https://api.highcharts.com/highcharts/xAxis.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-navigator-handle  
@@ -435,6 +531,7 @@ Fills and strokes for the navigator handles in Highstock. Replaces [navigator.h
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -442,6 +539,9 @@ Fills and strokes for the navigator handles in Highstock. Replaces [navigator.h
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-navigator-mask-outside  
@@ -451,6 +551,7 @@ Styles for the navigator mask in Highstock, the shaded element that shows the se
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -458,6 +559,9 @@ Styles for the navigator mask in Highstock, the shaded element that shows the se
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-navigator-outline
@@ -466,6 +570,7 @@ Styles for the Highstock navigator outline, a path element that highlights the z
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -473,6 +578,9 @@ Styles for the Highstock navigator outline, a path element that highlights the z
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-navigator-series
@@ -486,6 +594,7 @@ A class given to negative parts of the graph, area and individual points if the�
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-negative-color/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-negative-color/).
@@ -493,6 +602,9 @@ A class given to negative parts of the graph, area and individual points if the�
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-negative-color/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-negative-color/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-no-data
@@ -512,6 +624,7 @@ Rules to differentiate between up or down points in Highstock OHLC series.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/ohlc/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/ohlc/).
@@ -519,12 +632,16 @@ Rules to differentiate between up or down points in Highstock OHLC series.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/ohlc/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/ohlc/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-pane
 
 For pane backgrounds in radial charts. Replaces backgrounds and borders under the [pane.background](https://api.highcharts.com/highcharts/pane.background) option set.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pane/).
@@ -534,12 +651,16 @@ For pane backgrounds in radial charts. Replaces backgrounds and borders under th
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pane/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pane/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-plot-background
 
 A rectangle for setting fills on the plot area. Unlike _.highcharts-plot-border_, this element is drawn behind the grid, so it shouldn't be used to give the plot area a stroke.  Replaces [chart.plotBackgroundColor](https://api.highcharts.com/highcharts/chart.plotBackgroundColor).
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
@@ -549,6 +670,9 @@ A rectangle for setting fills on the plot area. Unlike _.highcharts-plot-border
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-point  
@@ -559,6 +683,7 @@ Styles for each point. Use the parent item, ._highcharts-series_ including ser
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-marker/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-marker/).
@@ -566,6 +691,9 @@ Styles for each point. Use the parent item, ._highcharts-series_ including ser
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-marker/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-marker/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-menu
@@ -574,6 +702,7 @@ The container of the context menu. Replaces [navigation.menuStyle](https://api.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
@@ -581,6 +710,9 @@ The container of the context menu. Replaces [navigation.menuStyle](https://api.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-menu-item
@@ -589,6 +721,7 @@ The list items in the context menu. Replaces [navigation.menuItemStyle](https:/
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
@@ -596,6 +729,9 @@ The list items in the context menu. Replaces [navigation.menuItemStyle](https:/
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/exporting-style/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-plot-band
@@ -614,6 +750,7 @@ A rectangle for setting a stroke on the plot area. Unlike _.highcharts-plot-bac
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
@@ -621,6 +758,9 @@ A rectangle for setting a stroke on the plot area. Unlike _.highcharts-plot-bac
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart-plotarea/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
   
  
@@ -642,6 +782,7 @@ Text styling for the range selector input boxes in Highstock. Use _input.highch
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -649,6 +790,9 @@ Text styling for the range selector input boxes in Highstock. Use _input.highch
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-range-label
@@ -657,6 +801,7 @@ Styles for the Highstock range selector labels saying "Zoom", "From" and "To". R
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -664,6 +809,9 @@ Styles for the Highstock range selector labels saying "Zoom", "From" and "To". R
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-range-selector-buttons
@@ -672,6 +820,7 @@ Top level group for the Highstock range selector buttons. Replaces [rangeSelect
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
@@ -679,12 +828,16 @@ Top level group for the Highstock range selector buttons. Replaces [rangeSelect
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/stock-navigator/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-root
 
 Matches the root _svg_ element of the chart. Use this to set styles that should be inherited by all elements, like _font-family_ or other text styles. 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
@@ -694,6 +847,9 @@ Matches the root _svg_ element of the chart. Use this to set styles that shoul
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-scrollbar  
@@ -707,6 +863,7 @@ Styles for the Highstock scrollbar. The thumb is the actual bar. The buttons are
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
@@ -714,12 +871,16 @@ Styles for the Highstock scrollbar. The thumb is the actual bar. The buttons are
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/chart/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-series
 
 General styling for all series. To apply styling to only a specific series type, you can define CSS rules for _.highcharts-{type}-series_, for example _.highcharts-area-series_ or _.highcharts-bar-series_. To make specific styling for one single series, you can define CSS rules for _.highcharts-series-{n}_ where _n_ is the index, or give the series a _className_ option.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Live demo of [cursor](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-cursor/), [dashstyle](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-dashstyle/), [pie series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pie-point/), [polygon series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/polygon/), [waterfall series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/waterfall/).
@@ -729,6 +890,9 @@ Live demo of [cursor](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts
 =======
 Live demo of [cursor](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-cursor/), [dashstyle](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-dashstyle/), [pie series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pie-point/), [polygon series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/polygon/), [waterfall series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/waterfall/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Live demo of [cursor](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-cursor/), [dashstyle](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/series-dashstyle/), [pie series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pie-point/), [polygon series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/polygon/), [waterfall series](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/waterfall/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-selection-marker
@@ -747,6 +911,7 @@ Text styles for the subtitle. Replaces [subtitle.style](https://api.highcharts.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
@@ -754,12 +919,16 @@ Text styles for the subtitle. Replaces [subtitle.style](https://api.highcharts.
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-tick
 
 Styles for the tick marks along the axis. Replaces [axis.tickColor](https://api.highcharts.com/highcharts/xAxis.tickColor) and [axis.tickWidth](https://api.highcharts.com/highcharts/xAxis.tickWidth). Use _.highcharts-xaxis_ / _.highcharts-yaxis_ parent items or className options to distinguish axes.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
@@ -769,6 +938,9 @@ Styles for the tick marks along the axis. Replaces [axis.tickColor](https://api
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/axis-grid/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
   
  
@@ -780,6 +952,7 @@ Text styles for the title. Replaces [title.style](https://api.highcharts.com/hi
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
@@ -787,6 +960,9 @@ Text styles for the title. Replaces [title.style](https://api.highcharts.com/hi
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/titles/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
   
  
@@ -800,6 +976,7 @@ Styles for the tooltip. The tooltip box is the shape or path where the backgroun
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/tooltip-border-background/).
 =======
 [View live demo](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/tooltip-border-background/).
@@ -807,12 +984,16 @@ Styles for the tooltip. The tooltip box is the shape or path where the backgroun
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/tooltip-border-background/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/tooltip-border-background/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     .highcharts-zone-{n}
 
 When [zones](https://api.highcharts.com/highcharts/plotOptions.series.zones) are applied, each zone is given a class name with its index. A custom _className_ option can also be set in the zone options. Replaces the color, dashStyle and fillColor options for zones.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/color-zones/).
@@ -822,3 +1003,6 @@ When [zones](https://api.highcharts.com/highcharts/plotOptions.series.zones) a
 =======
 [View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/color-zones/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[View live demo](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/color-zones/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

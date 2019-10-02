@@ -16,6 +16,7 @@ The bar chart can be used as a trellis chart by drawing several bar charts in a 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The example can be found at [https://jsfiddle.net/highcharts/VqruM/](https://jsfiddle.net/highcharts/VqruM/).
 =======
 The example can be found at [https://jsfiddlefiddle.net/highcharts/VqruM/](https://jsfiddlefiddle.net/highcharts/VqruM/).
@@ -23,3 +24,6 @@ The example can be found at [https://jsfiddlefiddle.net/highcharts/VqruM/](http
 =======
 The example can be found at [https://jsfiddle.net/highcharts/VqruM/](https://jsfiddle.net/highcharts/VqruM/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+The example can be found at [https://jsfiddle.net/highcharts/VqruM/](https://jsfiddle.net/highcharts/VqruM/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

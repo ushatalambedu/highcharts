@@ -56,6 +56,7 @@ The following demo visualizes four intervals for each side of the bell curve, an
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/bellcurve-intervals-pointsininterval) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/bellcurve-intervals-pointsininterval) to check the code.
@@ -63,6 +64,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/bellcurve-intervals-pointsininterval) to check the code.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/bellcurve-intervals-pointsininterval) to check the code.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 The black markers indicate the borders of the intervals - four intervals for each side of the curve. Within one interval there are four markers plus the border black marker. On the left side intervals are left-closed, on the right side right-closed. The interval length is the bell curve’s standard deviation.
 

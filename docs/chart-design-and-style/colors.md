@@ -10,6 +10,7 @@ Primarily, Highcharts supports solid colors given in hex format _#00FF00_ and rg
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Secondary, any color format that is recognized by the browser, like short Hex _#0F0_ or color names (_red, brown, blue_) is supported. However, in some cases Highcharts alters the brightness of the color, like when hovering a column chart. When using the secondary color formats, this operation isn't performed. By plugging in to the Highcharts.Color object, we can make named colors work with external libraries or color definitions, like [this example with RGBColor](https://jsfiddle.net/highcharts/zy1epj3o/).
 =======
 Secondary, any color format that is recognized by the browser, like short Hex _#0F0_ or color names (_red, brown, blue_) is supported. However, in some cases Highcharts alters the brightness of the color, like when hovering a column chart. When using the secondary color formats, this operation isn't performed. By plugging in to the Highcharts.Color object, we can make named colors work with external libraries or color definitions, like [this example with RGBColor](https://jsfiddlefiddle.net/highcharts/zy1epj3o/).
@@ -17,6 +18,9 @@ Secondary, any color format that is recognized by the browser, like short Hex _#
 =======
 Secondary, any color format that is recognized by the browser, like short Hex _#0F0_ or color names (_red, brown, blue_) is supported. However, in some cases Highcharts alters the brightness of the color, like when hovering a column chart. When using the secondary color formats, this operation isn't performed. By plugging in to the Highcharts.Color object, we can make named colors work with external libraries or color definitions, like [this example with RGBColor](https://jsfiddle.net/highcharts/zy1epj3o/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Secondary, any color format that is recognized by the browser, like short Hex _#0F0_ or color names (_red, brown, blue_) is supported. However, in some cases Highcharts alters the brightness of the color, like when hovering a column chart. When using the secondary color formats, this operation isn't performed. By plugging in to the Highcharts.Color object, we can make named colors work with external libraries or color definitions, like [this example with RGBColor](https://jsfiddle.net/highcharts/zy1epj3o/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ### Semi-transparent colors - opacity
 
@@ -45,6 +49,7 @@ In modern SVG enabled browsers the linear gradients can be applied to both fills
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 See the online example of a [linear gradient chart background](https://jsfiddle.net/highcharts/4rTBY/).
 =======
 See the online example of a [linear gradient chart background](https://jsfiddlefiddle.net/highcharts/4rTBY/).
@@ -52,6 +57,9 @@ See the online example of a [linear gradient chart background](https://jsfiddlef
 =======
 See the online example of a [linear gradient chart background](https://jsfiddle.net/highcharts/4rTBY/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See the online example of a [linear gradient chart background](https://jsfiddle.net/highcharts/4rTBY/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Radial gradients
 ----------------

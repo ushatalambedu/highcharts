@@ -17,6 +17,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 5. View live [demo](https://jsfiddle.net/mushigh/ng6zyvuk/).
 =======
 5. View live [demo](https://jsfiddlefiddle.net/mushigh/ng6zyvuk/).
@@ -24,3 +25,6 @@
 =======
 5. View live [demo](https://jsfiddle.net/mushigh/ng6zyvuk/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+5. View live [demo](https://jsfiddle.net/mushigh/ng6zyvuk/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

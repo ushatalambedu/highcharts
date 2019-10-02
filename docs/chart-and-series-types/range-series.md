@@ -26,6 +26,7 @@ Range series examples
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [View horizontal column range example with data labels](https://jsfiddle.net/highcharts/XjzFH/)
 =======
 *   [View horizontal column range example with data labels](https://jsfiddlefiddle.net/highcharts/XjzFH/)
@@ -33,3 +34,6 @@ Range series examples
 =======
 *   [View horizontal column range example with data labels](https://jsfiddle.net/highcharts/XjzFH/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [View horizontal column range example with data labels](https://jsfiddle.net/highcharts/XjzFH/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

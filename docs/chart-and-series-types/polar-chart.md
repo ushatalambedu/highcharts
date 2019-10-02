@@ -34,6 +34,7 @@ Polar chart examples
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [A polar chart with different series types](https://jsfiddle.net/highcharts/z9nyR/)
 *   [A spider web](https://jsfiddle.net/highcharts/xEAxK/)
 =======
@@ -44,3 +45,7 @@ Polar chart examples
 *   [A polar chart with different series types](https://jsfiddle.net/highcharts/z9nyR/)
 *   [A spider web](https://jsfiddle.net/highcharts/xEAxK/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [A polar chart with different series types](https://jsfiddle.net/highcharts/z9nyR/)
+*   [A spider web](https://jsfiddle.net/highcharts/xEAxK/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

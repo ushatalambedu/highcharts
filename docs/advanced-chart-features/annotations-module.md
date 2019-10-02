@@ -9,6 +9,7 @@ Include the following file ‘modules/annotations.js’ after highcharts.js or h
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
@@ -16,6 +17,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/demo/annotations/) to check the code.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 The concept
 -----------
@@ -69,6 +73,7 @@ Both annotation configurations are represented on this chart (see below). Try to
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
 =======
 Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
@@ -76,6 +81,9 @@ Click [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highchart
 =======
 Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Click [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/annotations/mock-point/) to check the code.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 The labels option
 -----------------

@@ -21,6 +21,7 @@ Allows the use of steps instead of a straight line.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Try it here](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
 =======
 [Try it here](https://jsfiddlefiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
@@ -28,6 +29,9 @@ Allows the use of steps instead of a straight line.
 =======
 [Try it here](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+[Try it here](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/line-step/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Code to enable step:
 

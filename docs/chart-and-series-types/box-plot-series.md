@@ -21,6 +21,7 @@ Each point in a box plot has five values: low, q1, median, q3 and high. Highchar
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The different parts of the box anatomy can be styled individually. The stem, whiskers and median have their own options for line width, color and dash style, while the box itself is subject to the color, lineWidth and fillColor options. See [plotOptions.boxplot](https://api.highcharts.com/highcharts/plotOptions.boxplot) for a full reference, and [the box plot styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/box-plot-styling/) sample for a demonstration.
 =======
 The different parts of the box anatomy can be styled individually. The stem, whiskers and median have their own options for line width, color and dash style, while the box itself is subject to the color, lineWidth and fillColor options. See [plotOptions.boxplot](https://api.highcharts.com/highcharts/plotOptions.boxplot) for a full reference, and [the box plot styling](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/box-plot-styling/) sample for a demonstration.
@@ -31,3 +32,6 @@ The different parts of the box anatomy can be styled individually. The stem, whi
 =======
 The different parts of the box anatomy can be styled individually. The stem, whiskers and median have their own options for line width, color and dash style, while the box itself is subject to the color, lineWidth and fillColor options. See [plotOptions.boxplot](https://api.highcharts.com/highcharts/plotOptions.boxplot) for a full reference, and [the box plot styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/box-plot-styling/) sample for a demonstration.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+The different parts of the box anatomy can be styled individually. The stem, whiskers and median have their own options for line width, color and dash style, while the box itself is subject to the color, lineWidth and fillColor options. See [plotOptions.boxplot](https://api.highcharts.com/highcharts/plotOptions.boxplot) for a full reference, and [the box plot styling](https://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/plotoptions/box-plot-styling/) sample for a demonstration.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

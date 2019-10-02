@@ -41,6 +41,7 @@ The _key_ (see code comment) doesn't have a general meaning, but can be used for
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 An alternative way to define the SVG structure is to add it to a second SVG in the same HTML document. This is the fastest way of reusing definitions by copy-pasting from online SVG examples. [View sample](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient-island/).
 =======
 An alternative way to define the SVG structure is to add it to a second SVG in the same HTML document. This is the fastest way of reusing definitions by copy-pasting from online SVG examples. [View sample](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient-island/).
@@ -48,6 +49,9 @@ An alternative way to define the SVG structure is to add it to a second SVG in t
 =======
 An alternative way to define the SVG structure is to add it to a second SVG in the same HTML document. This is the fastest way of reusing definitions by copy-pasting from online SVG examples. [View sample](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient-island/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+An alternative way to define the SVG structure is to add it to a second SVG in the same HTML document. This is the fastest way of reusing definitions by copy-pasting from online SVG examples. [View sample](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient-island/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 2. Apply it in the CSS
 -----------------------
@@ -61,12 +65,16 @@ Samples
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 1.  [Gradients](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient/). The sample shows two gradients. Stop colors are also defined from the CSS.
 2.  [Shadows and glows](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/shadow/). The sample shows how to apply an SVG filter. For a simple drop shadow, the built-in `#drop-shadow` filter can be used.
 3.  [Patterns](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/pattern/). The sample shows how to add pattern patterns in the defs, and add colors an apply them in CSS. 
 4.  [Borrow definitions](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient-island/) from another SVG in the page.
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 1.  [Gradients](https://jsfiddlefiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/css/gradient/). The sample shows two gradients. Stop colors are also defined from the CSS.
@@ -76,3 +84,5 @@ Samples
 >>>>>>> Docs: changed to https for jsfiddle links
 =======
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

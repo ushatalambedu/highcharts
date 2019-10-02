@@ -54,6 +54,7 @@ Normally Highcharts sends data to the export server for saving a graph as an im
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 See here for an example on how to perform an Ajax Post and return an image. https://jsfiddle.net/6h8o16g0/
 =======
 See here for an example on how to perform an Ajax Post and return an image. https://jsfiddlefiddle.net/6h8o16g0/
@@ -61,5 +62,8 @@ See here for an example on how to perform an Ajax Post and return an image. ht
 =======
 See here for an example on how to perform an Ajax Post and return an image. https://jsfiddle.net/6h8o16g0/
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+See here for an example on how to perform an Ajax Post and return an image. https://jsfiddle.net/6h8o16g0/
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 

@@ -125,6 +125,7 @@ Let’s create the Fibonacci retracements chart with seven labels, seven horizon
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Check the live demo [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/annotations/fibonacci-retracements).
 =======
 Check the live demo [here](https://jsfiddlefiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/annotations/fibonacci-retracements).
@@ -132,3 +133,6 @@ Check the live demo [here](https://jsfiddlefiddle.net/gh/get/library/pure/highch
 =======
 Check the live demo [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/annotations/fibonacci-retracements).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+Check the live demo [here](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/stock/annotations/fibonacci-retracements).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

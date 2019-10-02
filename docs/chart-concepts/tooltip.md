@@ -36,7 +36,10 @@ The background color can also be set to a gradient, see [an example](https://jsf
     
 
 The background color can also be set to a gradient, see [an example](https://jsfiddle.net/gh/get/jquery/1.7.1/highslide-software/highcharts.com/tree/master/samples/highcharts/tooltip/backgroundcolor-gradient/). Text properties can be set using the style option.
+<<<<<<< HEAD
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 Tooltip formatting
 ------------------

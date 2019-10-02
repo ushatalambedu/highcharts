@@ -21,6 +21,7 @@ Scrollbars are not limited to stock charts or Y axis. Using theÂ _highstock.js_Â
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *   [Scrollable bar chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/inverted-bar-scrollbar/)
 *   [Heatmap with two scrollable axes (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/heatmap-scrollbars/)
 *   [Scrollable Y axis on stock chart (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/scrollbar/)
@@ -34,5 +35,10 @@ Scrollbars are not limited to stock charts or Y axis. Using theÂ _highstock.js_Â
 *   [Heatmap with two scrollable axes (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/heatmap-scrollbars/)
 *   [Scrollable Y axis on stock chart (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/scrollbar/)
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+*   [Scrollable bar chart](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/inverted-bar-scrollbar/)
+*   [Heatmap with two scrollable axes (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/heatmap-scrollbars/)
+*   [Scrollable Y axis on stock chart (zoom in first)](https://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/stock/yaxis/scrollbar/)
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 <iframe width="100%" height="450" style="border: none;" src=https://www.highcharts.com/samples/embed/stock/yaxis/inverted-bar-scrollbar allow="fullscreen"></iframe>

@@ -49,6 +49,7 @@ The nodes are generated so that the total weight going in or out of a node is vi
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 In addition to auto-generated properties, custom properties such as `color` or `colorIndex` can be set by adding an array, [nodes](https://api.highcharts.com/highcharts/series.sankey.nodes), to the series options and linking the nodes by id; the following jsfiddle [demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/sankey-inverted/) illustrates this concept.
 =======
 In addition to auto-generated properties, custom properties such as `color` or `colorIndex` can be set by adding an array, [nodes](https://api.highcharts.com/highcharts/series.sankey.nodes), to the series options and linking the nodes by id; the following jsfiddle [demo](http://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/sankey-inverted/) illustrates this concept.
@@ -59,3 +60,6 @@ In addition to auto-generated properties, custom properties such as `color` or `
 =======
 In addition to auto-generated properties, custom properties such as `color` or `colorIndex` can be set by adding an array, [nodes](https://api.highcharts.com/highcharts/series.sankey.nodes), to the series options and linking the nodes by id; the following jsfiddle [demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/sankey-inverted/) illustrates this concept.
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+In addition to auto-generated properties, custom properties such as `color` or `colorIndex` can be set by adding an array, [nodes](https://api.highcharts.com/highcharts/series.sankey.nodes), to the series options and linking the nodes by id; the following jsfiddle [demo](https://jsfiddle.net/gh/get/library/pure/highcharts/highcharts/tree/master/samples/highcharts/plotoptions/sankey-inverted/) illustrates this concept.
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed

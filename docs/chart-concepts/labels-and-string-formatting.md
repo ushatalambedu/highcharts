@@ -26,6 +26,9 @@ Format strings are templates for labels, where variables are inserted. Format st
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 *   Two decimal places: `"{point.y:.2f}"` [[Demo](https://jsfiddle.net/highcharts/AYWsW/)]
 *   Thousands separator, no decimal places: `{point.y:,.0f}` [[Demo](https://jsfiddle.net/highcharts/rmTWS/)]
 *   Thousands separator, one decimal place: `{point.y:,.1f}` [[Demo, internationalized](https://jsfiddle.net/highcharts/eeDnv/)]
@@ -33,6 +36,7 @@ Format strings are templates for labels, where variables are inserted. Format st
 **Dates** allow, like numbers, the format to be appended behind a colon. The format conventions allowed are the same as those of [Highcharts.dateFormat()](https://api.highcharts.com/class-reference/Highcharts#dateFormat). For example:
 
 *   Full date: `{value:%Y-%m-%d}` [[Demo](https://jsfiddle.net/highcharts/PwEnd/)]
+<<<<<<< HEAD
 =======
 *   Two decimal places: `"{point.y:.2f}"` [[Demo](https://jsfiddlefiddle.net/highcharts/AYWsW/)]
 *   Thousands separator, no decimal places: `{point.y:,.0f}` [[Demo](https://jsfiddlefiddle.net/highcharts/rmTWS/)]
@@ -51,6 +55,8 @@ Format strings are templates for labels, where variables are inserted. Format st
 
 *   Full date: `{value:%Y-%m-%d}` [[Demo](https://jsfiddle.net/highcharts/PwEnd/)]
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
 ### Formatter callbacks
 

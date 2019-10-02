@@ -49,6 +49,7 @@ Highmaps can be used for more than geographic data, and more than the featured m
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 15. Go to [jsfiddle.net/highcharts/TUy7x/](https://jsfiddle.net/highcharts/TUy7x/), an empty boilerplate for Highmaps. Add a series configuration object and paste your data. It should now look like [jsfiddle.net/highcharts/TUy7x/1/](https://jsfiddle.net/highcharts/TUy7x/1/).
 =======
 15. Go to [jsfiddle.net/highcharts/TUy7x/](https://jsfiddlefiddle.net/highcharts/TUy7x/), an empty boilerplate for Highmaps. Add a series configuration object and paste your data. It should now look like [jsfiddle.net/highcharts/TUy7x/1/](https://jsfiddlefiddle.net/highcharts/TUy7x/1/).
@@ -56,6 +57,9 @@ Highmaps can be used for more than geographic data, and more than the featured m
 =======
 15. Go to [jsfiddle.net/highcharts/TUy7x/](https://jsfiddle.net/highcharts/TUy7x/), an empty boilerplate for Highmaps. Add a series configuration object and paste your data. It should now look like [jsfiddle.net/highcharts/TUy7x/1/](https://jsfiddle.net/highcharts/TUy7x/1/).
 >>>>>>> Docs: correctly changed to https for jsfiddle urls
+=======
+15. Go to [jsfiddle.net/highcharts/TUy7x/](https://jsfiddle.net/highcharts/TUy7x/), an empty boilerplate for Highmaps. Add a series configuration object and paste your data. It should now look like [jsfiddle.net/highcharts/TUy7x/1/](https://jsfiddle.net/highcharts/TUy7x/1/).
+>>>>>>> 903bb6ffce254cb0e2090faa5262e9fca76b4fed
 
     
     $(function () {
